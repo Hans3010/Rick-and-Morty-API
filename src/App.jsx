@@ -56,7 +56,7 @@ function App() {
       </div>
       :
       <>
-      <div>
+      <div className='location-containerr'>
       <Location location = {location} />
       </div>
       <div className="residents-container">
